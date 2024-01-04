@@ -1,4 +1,4 @@
-**BACKGROUND READING**
+**Background Reading**
 
 Fecho et al. 2023 contains a systematic comparison between Translator and LLMs and a discussion on future applications of LLMs to Translator: https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/an-approach-for-collaborative-development-of-a-federated-biomedical-knowledge-graphbased-questionanswering-system-questionofthemonth-challenges/22350F7532FB5BF0BFD737895947DCEA#.
 
@@ -14,7 +14,7 @@ Chen et al. 2023 provides a benchmarking study of Chat3.5: https://academic.oup.
 
 Soman et al. was recently submitted for publication: https://drive.google.com/file/d/1WYv7y03P5qvkg60Xq-Gd4_m8zCzG0nX5/view?usp=drive_link. Karthik has kindly allowed me to share it.
 
-**BACKGROUND VIDEOS**
+**Background Videos**
 
 This YouTube video describes a step-by-step approach for building 5 Transformer LLMs of increasing complexity: https://www.youtube.com/watch?v=s09NPN1BSdE.
 

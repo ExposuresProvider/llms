@@ -10,9 +10,9 @@ Reese et al. 2023: https://pubmed.ncbi.nlm.nih.gov/37503093/
 
 Caufield et al. 2023: https://arxiv.org/pdf/2304.02711.pdf
 
-Soman et al. was recently submitted for publication: https://drive.google.com/file/d/1WYv7y03P5qvkg60Xq-Gd4_m8zCzG0nX5/view?usp=drive_link. Karthik has kindly allowed me to share it.
-
 Chen et al. 2023 provides a benchmarking study of Chat3.5: https://academic.oup.com/bioinformatics/article/39/9/btad557/7264174.
+
+Soman et al. was recently submitted for publication: https://drive.google.com/file/d/1WYv7y03P5qvkg60Xq-Gd4_m8zCzG0nX5/view?usp=drive_link. Karthik has kindly allowed me to share it.
 
 **BACKGROUND VIDEOS**
 

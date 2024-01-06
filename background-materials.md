@@ -14,6 +14,8 @@ Chen et al. 2023 provides a benchmarking study of Chat3.5: https://academic.oup.
 
 Soman et al. was recently submitted for publication: https://drive.google.com/file/d/1WYv7y03P5qvkg60Xq-Gd4_m8zCzG0nX5/view?usp=drive_link. Karthik has kindly allowed me to share it.
 
+This is just a really fun article from The New Yorker: https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot?utm_sour[%E2%80%A6]37ad283235f64a&esrc=None&mbid=CRMNYR012019.
+
 **Background Videos**
 
 This YouTube video describes a step-by-step approach for building 5 Transformer LLMs of increasing complexity: https://www.youtube.com/watch?v=s09NPN1BSdE.

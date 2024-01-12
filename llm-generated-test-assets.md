@@ -2,6 +2,15 @@
 
 *Note that the lists below were generated using ChatGPT3.5 on 01.05.2024.
 
+*Comments on methodology from Kara:
+
+I used ChatGPT to generate the test assets provided here. Specifically, I asked ChatGPT to identify drugs approved for, in clinical use (off-label) for, or in clinical trials for a given disease. Takes a bit of prompting, but it works pretty well for identifying drugs that have been approved for or in clinical trials for a given disease. It doesn't work as well for identifying drugs that are in clinical use for or used off-label for a given disease, but I bet I could improve the prompts. I ran the lists past a very critical SME who gave them a thumbs up, so that is reassuring.
+
+I only tested the seven or so CURIEs that the TCDC has been using for R&D of the CQS, but I noticed that once I tuned my questions and determined the order of my prompts for the first CURIE, then I was able to apply the same prompting for subsequent CURIES, which suggests that the overall approach could be automated.
+
+One other thing I found is that the responses that ChatGPT returned were at just the right level of detail. Here are the lists.
+
+
 **Asthma**
 
 *Approved*

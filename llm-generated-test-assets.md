@@ -10,6 +10,15 @@
 
 *One other thing I found is that the responses that ChatGPT returned were at just the right level of detail. Here are the lists.*
 
+**Test Asset Classification Key:**
+
+- If approved, then 1_TopAnswer
+
+- If in clinical trials for, then 2_AcceptableAnswer
+
+- If off-label use, then 2_AcceptableAnswer
+
+
 
 **Asthma**
 

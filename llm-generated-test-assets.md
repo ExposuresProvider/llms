@@ -14,9 +14,9 @@
 
 - If approved, then 1_TopAnswer
 
-- If in clinical trials for, then 2_AcceptableAnswer
+- If in clinical trials for, then 2_Acceptable
 
-- If off-label use, then 2_AcceptableAnswer
+- If off-label use, then 2_Acceptable
 
 
 

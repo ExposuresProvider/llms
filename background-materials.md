@@ -28,3 +28,7 @@ SA1d. Working with the soon-to-be-formed Translator Generative AI Task Force, de
 
 https://github.com/NCATSTranslator/Translator_component_toolkit/blob/main/notebooks/Question2Query_chatGPT.ipynb
 
+**Joey R.'s KG Summarization using LLMs**
+
+https://docs.google.com/presentation/d/1v36YviZOS2NAmuh5oQZ6U6iYl8PqS1Qp/edit?usp=sharing&ouid=112054006232285231595&rtpof=true&sd=true
+

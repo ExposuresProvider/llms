@@ -24,3 +24,7 @@ This YouTube video describes a step-by-step approach for building 5 Transformer 
 
 SA1d. Working with the soon-to-be-formed Translator Generative AI Task Force, develop approaches for leveraging LLMs in support of ICEES+ and ICEES KG KP, focusing initially on approaches for applying LLMs to translate user natural-language questions into ICEES+ multivariate queries and ICEES KG TRAPI queries.
 
+**Guangrong G.'s LLM Natural-language query -> TRAPI Repo**
+
+https://github.com/NCATSTranslator/Translator_component_toolkit/blob/main/notebooks/Question2Query_chatGPT.ipynb
+

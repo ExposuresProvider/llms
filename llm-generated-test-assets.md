@@ -18,6 +18,8 @@
 
 - If off-label use, then 2_Acceptable
 
+- If contraindicated for, then 4_NeverShow
+
 
 
 **Asthma**
@@ -202,3 +204,41 @@ o	Different stem cell-based therapies were in clinical trials, exploring the pot
 7.	Anti-fibrotic Agents:
 o	Bardoxolone Methyl: An antioxidant inflammation modulator (AIM) that has shown potential anti-fibrotic effects, undergoing trials for its impact on IPF progression.
 
+
+## Test assets contributed to Translator, 01.30.2024 ##
+
+Asset:315	Treats	Inferred	Asthma	MONDO:0004979	PUBCHEM.COMPOUND:5311101	Fluticasone	1_TopAnswer
+
+Asset:316	Treats	Inferred	Asthma	MONDO:0004979	UMLS:C2194286	Albuterol (salbutamol)	2_Acceptable
+
+Asset:317	Treats	Inferred	Asthma	MONDO:0004979	PUBCHEM.COMPOUND:4946	Propranolol	4_NeverShow
+
+Asset:318	Treats	Inferred	Cystic fibrosis	MONDO:0009061	PUBCHEM.COMPOUND:16220172	Ivacaftor	1_TopAnswer
+
+Asset:319	Treats	Inferred	Cystic fibrosis	MONDO:0009061	UMLS:C3489797	AZD9668	2_Acceptable
+
+Asset:320	Treats	Inferred	Cystic fibrosis	MONDO:0009061	PUBCHEM.COMPOUND:55283	Itraconazole	4_NeverShow
+
+Asset:321	Treats	Inferred	Idiopathic bronchiectasis	MONDO:0018956	PUBCHEM.COMPOUND:447043	Azithromycin	2_Acceptable
+
+Asset:322	Treats	Inferred	Idiopathic bronchiectasis	MONDO:0018956	PUBCHEM.COMPOUND:12560	Erythromycin	2_Acceptable
+
+Asset:323	Treats	Inferred	Idiopathic bronchiectasis	MONDO:0018956	PUBCHEM.COMPOUND:4946	Propranolol	4_NeverShow
+
+Asset:324	Treats	Inferred	Idiopathic pulmonary fibrosis	MONDO:0008345	PUBCHEM.COMPOUND:40632	Pirfenidone	1_TopAnswer
+
+Asset:325	Treats	Inferred	Idiopathic pulmonary fibrosis	MONDO:0008345	PUBCHEM.COMPOUND:11671467	Fostamatinib	2_Acceptable
+
+Asset:326	Treats	Inferred	Idiopathic pulmonary fibrosis	MONDO:0008345	PUBCHEM.COMPOUND:90420193	GLPG1690 (Ziritaxestat)	2_Acceptable
+
+Asset:327	Treats	Inferred	Lymphangioleiomyomatosis	MONDO:0011705	PUBCHEM.COMPOUND:5284616	Sirolimus	1_TopAnswer
+
+Asset:328	Treats	Inferred	Lymphangioleiomyomatosis	MONDO:0011705	PUBCHEM.COMPOUND:11520894	Ridaforolimus	2_Acceptable
+
+Asset:329	Treats	Inferred	Lymphangioleiomyomatosis	MONDO:0011705	UMLS:C0116660	ESTROSTEP Fe (Norethindrone Acetate and Ethinyl Estradiol)	4_NeverShow
+
+Asset:330	Treats	Inferred	Primary ciliary dyskinesia	MONDO:0016575	PUBCHEM.COMPOUND:9934746	Ensifentrine	2_Acceptable
+
+Asset:331	Treats	Inferred	Primary ciliary dyskinesia	MONDO:0016575	PUBCHEM.COMPOUND:447043	Azithromycin	2_Acceptable
+
+Asset:332	Treats	Inferred	Primary ciliary dyskinesia	MONDO:0016575	PUBCHEM.COMPOUND:5360696	Dextromethorphan	4_NeverShow
